@@ -1,0 +1,18 @@
+"/Users/meryemdemir/Documents/SpendWise/SpendWise/Models/Currency.swift":
+  swift-dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.swiftdeps"
+  const-values: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.swiftconstvalues"
+  diagnostics: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.dia"
+  object: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.o"
+  dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.d"
+"/Users/meryemdemir/Documents/SpendWise/SpendWise/ViewModels/HomeViewModel.swift":
+  const-values: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues"
+  object: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.o"
+  dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.d"
+  swift-dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.swiftdeps"
+  diagnostics: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.dia"
+"/Users/meryemdemir/Documents/SpendWise/SpendWise/ContentView.swift":
+  swift-dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.swiftdeps"
+  const-values: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.swiftconstvalues"
+  object: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.o"
+  diagnostics: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.dia"
+  dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.d"

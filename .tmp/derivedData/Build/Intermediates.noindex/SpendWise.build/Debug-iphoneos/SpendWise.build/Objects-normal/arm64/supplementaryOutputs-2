@@ -1,0 +1,18 @@
+"/Users/meryemdemir/Documents/SpendWise/SpendWise/ViewModels/MainBalanceViewModel.swift":
+  const-values: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.swiftconstvalues"
+  diagnostics: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.dia"
+  object: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.o"
+  dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.d"
+  swift-dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.swiftdeps"
+"/Users/meryemdemir/Documents/SpendWise/SpendWise/Services/DataStore.swift":
+  swift-dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.swiftdeps"
+  const-values: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.swiftconstvalues"
+  object: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.o"
+  dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.d"
+  diagnostics: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.dia"
+"/Users/meryemdemir/Documents/SpendWise/SpendWise/Views/ExpenseRowView.swift":
+  const-values: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.swiftconstvalues"
+  diagnostics: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.dia"
+  object: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.o"
+  dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.d"
+  swift-dependencies: "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.swiftdeps"

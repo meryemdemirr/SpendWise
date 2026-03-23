@@ -1,0 +1,198 @@
+{
+  "" : {
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWise-master.dia",
+    "emit-module-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWise-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWise-master-emit-module.dia",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWise-master.swiftdeps"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/ContentView.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Models/AppSettings.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AppSettings~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Models/Currency.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Currency~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Models/Expense.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/Expense~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Services/CurrencyService.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/CurrencyService~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Services/DataStore.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/DataStore~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/SpendWiseApp.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/SpendWiseApp~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Utilities/KeyboardDismiss.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/KeyboardDismiss~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/ViewModels/AddExpenseViewModel.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseViewModel~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/ViewModels/HomeViewModel.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/ViewModels/MainBalanceViewModel.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceViewModel~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/ViewModels/UpdateBalanceViewModel.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceViewModel~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Views/AddExpenseView.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/AddExpenseView~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Views/ExpenseRowView.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/ExpenseRowView~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Views/HomeView.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Views/MainBalanceSetupView.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/MainBalanceSetupView~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Views/RootView.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/RootView~partial.swiftmodule"
+  },
+  "/Users/meryemdemir/Documents/SpendWise/SpendWise/Views/UpdateBalanceView.swift" : {
+    "const-values" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView.swiftconstvalues",
+    "dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView.d",
+    "diagnostics" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView.dia",
+    "index-unit-output-path" : "/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView.o",
+    "llvm-bc" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView.bc",
+    "object" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView.o",
+    "swift-dependencies" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView.swiftdeps",
+    "swiftmodule" : "/Users/meryemdemir/Documents/SpendWise/.tmp/derivedData/Build/Intermediates.noindex/SpendWise.build/Debug-iphoneos/SpendWise.build/Objects-normal/arm64/UpdateBalanceView~partial.swiftmodule"
+  }
+}

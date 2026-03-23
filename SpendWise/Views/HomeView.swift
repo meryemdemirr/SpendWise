@@ -10,6 +10,7 @@ import SwiftUI
 struct HomeView: View {
     let dataStore: DataStore
     @StateObject private var viewModel: HomeViewModel
+    @State private var isShowingUpdateBalance = false
 
     init(dataStore: DataStore) {
         self.dataStore = dataStore
@@ -40,6 +41,15 @@ struct HomeView: View {
                 )
                 .padding(.horizontal)
             }
+
+            Button {
+                isShowingUpdateBalance = true
+            } label: {
+                Label("Update Balance", systemImage: "arrow.triangle.2.circlepath")
+                    .frame(maxWidth: .infinity)
+            }
+            .buttonStyle(.borderedProminent)
+            .padding(.horizontal)
 
             HStack {
                 Text("Expenses")
@@ -88,6 +98,9 @@ struct HomeView: View {
             } label: {
                 Image(systemName: "plus.circle.fill")
             }
+        }
+        .sheet(isPresented: $isShowingUpdateBalance) {
+            UpdateBalanceView(dataStore: dataStore)
         }
     }
 }

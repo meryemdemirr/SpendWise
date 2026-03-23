@@ -15,26 +15,44 @@ final class HomeViewModel: ObservableObject {
 
     private let dataStore: DataStore
     private let currencyService: CurrencyServiceProtocol
+    private var cancellables = Set<AnyCancellable>()
+
+    // Published copies so the UI reacts to DataStore changes.
+    @Published private(set) var settings: AppSettings?
+    @Published private(set) var expenses: [Expense] = []
+    @Published private(set) var totalSpending: Double = 0
 
     init(dataStore: DataStore, currencyService: CurrencyServiceProtocol = CurrencyService()) {
         self.dataStore = dataStore
         self.currencyService = currencyService
+        bindToDataStore()
     }
 
-    var settings: AppSettings? {
-        dataStore.settings
-    }
+    private func bindToDataStore() {
+        // Initial snapshot
+        self.settings = dataStore.settings
+        self.expenses = dataStore.expenses
+        self.totalSpending = dataStore.expenses.reduce(0) { $0 + $1.convertedAmount }
 
-    var expenses: [Expense] {
-        dataStore.expenses
-    }
+        // React to changes
+        dataStore.$settings
+            .receive(on: DispatchQueue.main)
+            .sink { [weak self] newSettings in
+                self?.settings = newSettings
+            }
+            .store(in: &cancellables)
 
-    var totalSpending: Double {
-        dataStore.totalSpending
+        dataStore.$expenses
+            .receive(on: DispatchQueue.main)
+            .sink { [weak self] newExpenses in
+                self?.expenses = newExpenses
+                self?.totalSpending = newExpenses.reduce(0) { $0 + $1.convertedAmount }
+            }
+            .store(in: &cancellables)
     }
 
     func reloadRates() async {
-        guard let base = dataStore.settings?.baseCurrency else { return }
+        guard let base = settings?.baseCurrency else { return }
         isLoadingRates = true
         errorMessage = nil
 
