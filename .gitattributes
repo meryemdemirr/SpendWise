@@ -1,0 +1,13 @@
+* text=auto
+
+# Keep repository language stats focused on app source.
+*.swift linguist-language=Swift
+
+# Exclude Xcode/project metadata from language detection.
+*.pbxproj linguist-detectable=false
+*.xcworkspacedata linguist-detectable=false
+*.plist linguist-detectable=false
+*.xcuserstate linguist-detectable=false
+
+# Asset catalog JSON files are resources, not source code.
+SpendWise/Assets.xcassets/** linguist-detectable=false
